@@ -9,7 +9,6 @@ Release:    0
 Group:      Applications/Utilities
 License:    BSD-2-Clause
 URL:        https://github.com/smyru/mtree-netbsd
-Source:     https://codeload.github.com/smyru/mtree-netbsd/tar.gz/5282105?dummy=/smyru-mtree-netbsd-5282105.tar.gz
 BuildRequires:  autoconf
 BuildRequires:  automake
 BuildRequires:  gcc
