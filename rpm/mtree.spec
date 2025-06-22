@@ -7,9 +7,9 @@ Summary:    NetBSD mtree utility for mapping and checking directory hierarchies
 Version:    20130908
 Release:    0
 Group:      Applications/Utilities
-License:    BSD
+License:    BSD-2-Clause
 URL:        https://github.com/smyru/mtree-netbsd
-Source0:    https://github.com/NetBSD/pkgsrc/tree/trunk/pkgtools/mtree/files
+Source:     https://codeload.github.com/smyru/sailfishos-mtree/tar.gz/0921b16?dummy=/smyru-sailfishos-mtree-0921b16_GH0.tar.gz
 BuildRequires:  autoconf
 BuildRequires:  automake
 BuildRequires:  gcc
