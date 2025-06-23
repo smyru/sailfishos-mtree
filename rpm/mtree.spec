@@ -13,6 +13,7 @@ Source:     %{name}-%{version}.tar.gz
 BuildRequires:  autoconf
 BuildRequires:  automake
 BuildRequires:  gcc
+BuildRequires:  libnbcompat-devel
 
 %description
 The mtree utility compares a file hierarchy against a specification,
